@@ -1,5 +1,8 @@
 # OpenWrt-Network-Watchdog
 Intelligent Network Watchdog for OpenWrt/Kwrt. Auto-reconnect &amp; Captive Portal Login (Curl) with dynamic IP support. 专为 OpenWrt/Kwrt 打造的网络看门狗，支持断网重连与校园网自动认证。
+
+---
+
 # OpenWrt/Kwrt 校园网自动重连 & 认证看门狗 (Network Watchdog)
 
 🚀 **专为校园网环境设计的 OpenWrt/Kwrt 网络保活工具。**
