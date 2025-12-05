@@ -1,6 +1,5 @@
 # OpenWrt-Network-Watchdog
 Intelligent Network Watchdog for OpenWrt/Kwrt. Auto-reconnect &amp; Captive Portal Login (Curl) with dynamic IP support. 专为 OpenWrt/Kwrt 打造的网络看门狗，支持断网重连与校园网自动认证。
-````markdown
 # OpenWrt/Kwrt 校园网自动重连 & 认证看门狗 (Network Watchdog)
 
 🚀 **专为校园网环境设计的 OpenWrt/Kwrt 网络保活工具。**
@@ -140,6 +139,3 @@ A: 这是阿里云的公共 DNS，用于测试网络是否通畅。你也可以�
 ## 📜 免责声明
 
 本工具仅供学习和技术交流使用。请勿用于非法用途，作者不承担任何因使用本工具导致的后果。
-
-```
-```
